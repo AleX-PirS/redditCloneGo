@@ -23,3 +23,5 @@ Backend для клона реддита.
 10) GET /api/post/{POST_ID}/downvote - рейтинг поста вниз
 11) DELETE /api/post/{POST_ID} - удаление поста
 12) GET /api/user/{USER_LOGIN} - получение всех постов конкртеного пользователя
+
+Данные хранятся в памяти
